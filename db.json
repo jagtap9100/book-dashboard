@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic Habits jagtap",
+      "author": "James Clear",
+      "price": 15.99,
+      "stock": 50,
+      "category": "Self-Help"
+    },
+    {
+      "id": "3",
+      "title": "Rich dad Poor dad",
+      "author": "Robert Kiyosaki",
+      "price": 14.99,
+      "stock": 35,
+      "category": "Finance"
+    },
+    {
+      "id": "4",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 18.99,
+      "stock": 30,
+      "category": "Productivity"
+    },
+    {
+      "id": "6",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "price": 19.99,
+      "stock": 20,
+      "category": "History"
+    },
+    {
+      "id": "4f0d",
+      "title": "Thinking, Fast and Slow",
+      "author": "Jhon doe",
+      "price": "123",
+      "category": "Thinking",
+      "stock": "123"
+    }
+  ]
+}
